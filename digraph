@@ -1,7 +1,7 @@
 digraph {
 	edge [color=black];
-	node1	[label=ホッタ];
-	node2	[label=ねこ];
+	node1	[label=Bob];
+	node2	[label=Alice];
 	node1 -> node2	[color=pink,
 		label=Like];
 	node2 -> node1	[color=blue,

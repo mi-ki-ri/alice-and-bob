@@ -5,8 +5,8 @@ graph = Digraph(format="png" , comment="相関図")
 
 
 # ノードを追加
-graph.node("node1", label="ホッタ")
-graph.node("node2", label="ねこ")
+graph.node("node1", label="Bob")
+graph.node("node2", label="Alice")
 
 # 辺を追加
 graph.attr("edge", color="pink")
